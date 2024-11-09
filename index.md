@@ -1,4 +1,5 @@
-# PROJECTS ![taco mouth](https://github.com/user-attachments/assets/46251d72-5b3f-4feb-8145-09658109db24)
+# PROJECTS ![taco mouth](https://github.com/user-attachments/assets/7cca9c36-ea04-4afb-9f26-e77da3f5dc3a)
+
 ---
 ## DICE GAME
 ###### This is a simple dice game. 
