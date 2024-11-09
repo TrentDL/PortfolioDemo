@@ -8,16 +8,21 @@
 ---
 [Open app](/sample_page) 
 
+---
+
 ## ITEM SHOP
 
 <img width="674" alt="Screenshot 2024-11-09 023627" src="https://github.com/user-attachments/assets/33b673f8-0531-4a8d-84cd-9603a5ef896d">
 
-###### This is a interactive item shop app 
+###### This is a interactive item shop app. 
+---
 [Open app](/sample_page) 
 
+---
 ## Journal App
 <img width="674" alt="Screenshot 2024-11-09 023826" src="https://github.com/user-attachments/assets/8ba3dd4f-46b0-43fe-a741-4ac501805eae">
 
 
 ###### A app for writing entires.
+---
 [Open app](/sample_page) 
