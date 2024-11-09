@@ -1,0 +1,43 @@
+
+body {
+
+	
+	
+  	
+	background-image: url(Stuff/dark-2.png);
+	
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+   
+
+
+
+  #audli1 {
+	  	text-align: center;
+		padding-bottom:100;
+		
+  }
+
+   #h1 {
+	   	text-align: center;  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	      font-family: 'Anton', sans-serif;
+   color: #666666;
+   padding-bottom:300;
+  }
+
+
+
+ #footer {
+	font-family: 'Poiret One', cursive;
+	background-color:#222222;	
+	text-align:center;
+	color: 259999;
+	
+    padding: 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+	}
+	
