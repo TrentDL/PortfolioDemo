@@ -20,7 +20,7 @@
 ---
 
 
----
+
 ## Journal App
 <img width="674" alt="Screenshot 2024-11-09 023826" src="https://github.com/user-attachments/assets/8ba3dd4f-46b0-43fe-a741-4ac501805eae">
 
